@@ -3,7 +3,7 @@ Tutorial and PHP script to fetch Instagram images and videos from API and build 
 
 ## Tutorial to generate token and user id
 * Step 1
-[alt facebook app](https://github.com/benoitdelorme/instgram-api/assets/images/1.png)
+[alt facebook app](https://github.com/benoitdelorme/instgram-api/blob/main/assets/images/1.png)
 * Step 2
 ![alt facebook app][https://github.com/benoitdelorme/instgram-api/assets/images/2.png]
 * Step 3
